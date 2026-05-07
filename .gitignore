@@ -4,5 +4,6 @@ CLAUDE.md
 *.o
 *.mod
 *.mod.c
+*.cmd
 modules.order
-Modules.symvers
+Module.symvers
